@@ -1,0 +1,118 @@
+# This file is distributed under the same license as the PACKAGE package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-29 03:10+0200\n"
+"PO-Revision-Date: 2015-11-29 02:53+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.6\n"
+
+#: members/forms.py:7
+#, python-format
+msgid "I have read and accept <a href='%s' target='_blank'>the rules</a>"
+msgstr "I have read and accept <a href='%s' target='_blank'>the rules</a>"
+
+#: members/models.py:31
+msgid "First name"
+msgstr "First name"
+
+#: members/models.py:32
+msgid "Last name"
+msgstr "Last name"
+
+#: members/models.py:33
+msgid "City of residence"
+msgstr "City of residence"
+
+#: members/models.py:34
+msgid "Email address"
+msgstr "Email address"
+
+#: members/models.py:35
+msgid "Phone number"
+msgstr "Phone number"
+
+#: members/models.py:36
+msgid "Nickname"
+msgstr "Nickname"
+
+#: members/models.py:46 members/models.py:78
+msgid "Label"
+msgstr "Label"
+
+#: members/models.py:52
+msgid "Member Type"
+msgstr "Member Type"
+
+#: members/models.py:53
+msgid "Member Types"
+msgstr "Member Types"
+
+#: members/models.py:59
+msgid "Date accepted"
+msgstr "Date accepted"
+
+#: members/models.py:60
+msgid "Membership types"
+msgstr "Membership types"
+
+#: members/models.py:61
+msgid "Anonymized id (for use in external databases)"
+msgstr "Anonymized id (for use in external databases)"
+
+#: members/models.py:62
+msgid "Member id no"
+msgstr "Member id no"
+
+#: members/models.py:72
+msgid "Member"
+msgstr "Member"
+
+#: members/models.py:73
+msgid "Members"
+msgstr "Members"
+
+#: members/models.py:84
+msgid "Membership Application Tag"
+msgstr "Membership Application Tag"
+
+#: members/models.py:85
+msgid "Membership Application Tags"
+msgstr "Membership Application Tags"
+
+#: members/models.py:90
+msgid "Application tags"
+msgstr "Application tags"
+
+#: members/models.py:108
+msgid "Membership Application"
+msgstr "Membership Application"
+
+#: members/models.py:109
+msgid "Membership Applications"
+msgstr "Membership Applications"
+
+#: members/templates/members/application_form.html:4
+#: members/templates/members/application_form.html:5
+msgid "Apply for membership"
+msgstr "Apply for membership"
+
+#: members/templates/members/application_received.html:4
+msgid "Received. Thank you"
+msgstr "Received. Thank you"
+
+#: members/templates/members/application_received.html:5
+msgid "Application received. Thank you"
+msgstr "Application received. Thank you"
+
+#: members/templates/members/application_received.html:9
+msgid "We'll get back to you"
+msgstr "We'll get back to you"
